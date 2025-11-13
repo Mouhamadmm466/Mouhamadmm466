@@ -1,6 +1,6 @@
 #  About Me:
 Hi, I am Mouhamad. 
-I am a Computer Science student at Case Western Reserve University and I'm driven by a simple mission: to build technology that benefits people I've never even met.
+I am a Computer Science student at Case Western Reserve University. I am want to build technologies that will benefit millions of people I have never met.  
 
 My passion for this mission is in the entire creation process. I brainstorm, collaborate, build, and deploy ideas from scratch. I am currently learning about Machine Learning and the .NET framework, and I'm passionate about finding new ways to combine these tools to create useful applications.
 
