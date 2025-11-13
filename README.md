@@ -1,5 +1,14 @@
 # 💫 About Me:
-I am currtenly working on Machine learning project<br>I am looking to collaborate <br>I am a freshman studying computer science
+Hi, I am Mouhamad. 
+I am a Computer Science student at Case Western Reserve University and I'm driven by a simple mission: to build technology that benefits people I've never even met.
+
+My passion for this mission is in the entire creation process. I brainstorm, collaborate, build, and deploy ideas from scratch. I am currently learning about Machine Learning and the .NET framework, and I'm passionate about finding new ways to combine these tools to create useful applications.
+
+I recently built and deployed my first ML project, putting these concepts into practice. I believe the best way to learn is by building, and I'm always searching for the next challenge.
+
+I am actively seeking opportunities to contribute to meaningful projects and am always open to connecting with other developers, mentors, and innovators.
+
+Whether you'd like to collaborate on a project or just want to talk tech, feel free to reach out
 
 
 ## 🌐 Socials:
